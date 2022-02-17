@@ -7,6 +7,7 @@ public class User {
     private int ag;
     private int a;
 
+
     public int getId() {
         return id;
     }
